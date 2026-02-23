@@ -1,6 +1,6 @@
 = Teragrep DNF Package Repository
 
-This is a DNF package repository for Teragrep releases.
+This is a DNF package repository for https://github.com/teragrep/[Teragrep] releases.
 
 
 == Documentation
