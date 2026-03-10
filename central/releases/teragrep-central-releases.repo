@@ -1,6 +1,0 @@
-[teragrep-central-releases]
-name=teragrep-central-releases
-baseurl=https://pkg.teragrep.com/central/releases
-gpgcheck=1
-gpgkey=https://pkg.teragrep.com/central/releases/teragrep-central-releases-gpg-key.pub
-enabled=1
